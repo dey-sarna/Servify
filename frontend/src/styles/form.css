@@ -1,0 +1,22 @@
+.form {
+  max-width: 360px;
+  background: white;
+  padding: 20px;
+  border-radius: 6px;
+}
+
+.form input,
+.form select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 12px;
+}
+
+.form button {
+  width: 100%;
+  padding: 10px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
